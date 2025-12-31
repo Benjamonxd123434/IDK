@@ -1,10 +1,3 @@
---[[
-     DEX Main Script
-	
-	   Created by: Alter-X#5868
-	
---]]
-
 
 local Services = setmetatable({},{
 	__index = function(self, ind)
